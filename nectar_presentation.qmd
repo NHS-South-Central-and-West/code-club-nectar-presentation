@@ -1,0 +1,67 @@
+---
+title: "Welcome to Code Club!"
+author: "Specialist Analytics Team"
+---
+
+## Our Mission
+
+## No coding experience? No problem
+
+Our core syllabus will cover:
+
+- What to install
+- An introduction to essential programming concepts
+- Running code line-by-line in beginner-friendly Jupyter Notebooks
+- Working on Python scripts in Visual Studio Code
+- Virtual environment management
+- Collaboration on coding projects using GitHub
+
+# Visualisations {data-background-color="#425563"}
+
+## Topics to be covered
+
+- Interactive visualisations
+- Reproducible visualisations
+- Creating dashboards
+
+---
+
+## Presentation Repository
+
+If you like what you saw today, you can find the repository for the demonstration [here](https://github.com/NHS-South-Central-and-West)
+
+# Automation {data-background-color="#425563"}
+
+## Example topics to be covered
+
+- Webscraping
+- Merging multiple data files
+- Extracting data from formatted documents
+- Extracting files from Outlook mailboxes
+
+---
+
+## Presentation Repository
+
+If you like what you saw today, you can find the repository for the demonstration [here](https://github.com/NHS-South-Central-and-West)
+
+# Data Science {data-background-color="#425563"}
+
+## Topics to be covered
+
+---
+
+## Presentation Repository
+
+If you like what you saw today, you can find the repository for the demonstration [here](https://github.com/NHS-South-Central-and-West)
+
+# How do I get involved? {data-background-color="#425563"}
+
+## Where and When?
+
+- Sessions will be an hour long, held once per fortnight- 3:00 PM on a Thursday.
+
+[Our website - THIS URL WILL CHANGE](https://nhs-south-central-and-west.github.io/)
+
+[Join us on Teams](https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253Ade1e6d9a00c94b7ea473b8ab34546c14%2540thread.tacv2%2FGeneral%3FgroupId%3D38d3487e-3bc5-4d3c-a710-5a9e895ab03d%26tenantId%3D37c354b2-85b0-47f5-b222-07b48d774ee3&data=05%7C02%7Cinternalcomms.scwcsu%40nhs.net%7C9887a4e510c64753310d08dd783a5cd1%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638798914271260059%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jGegD1Y1T9W0kLqpjiunYPWrew7Ue0KBbgHttqK7A1Q%3D&reserved=0)
+
