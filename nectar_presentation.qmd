@@ -18,11 +18,13 @@ Our core syllabus will cover:
 
 # Visualisations {data-background-color="#425563"}
 
-## Topics to be covered
+## Future topics to be covered
 
 - Interactive visualisations
 - Reproducible visualisations
 - Creating dashboards
+
+## Demo
 
 ---
 
