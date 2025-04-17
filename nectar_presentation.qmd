@@ -20,9 +20,10 @@ Our core syllabus will cover:
 
 ## Future topics to be covered
 
-- Interactive visualisations
+- Comparison of visualisation packages available in Python
+- Visualisation best practice
+- Interactive visualisations & dashboarding
 - Reproducible visualisations
-- Creating dashboards
 
 ## Demo
 
@@ -30,7 +31,7 @@ Our core syllabus will cover:
 
 ## Presentation Repository
 
-If you like what you saw today, you can find the repository for the demonstration [here](https://github.com/NHS-South-Central-and-West)
+If you like what you saw today, you can find the repository for the demonstration [here](https://github.com/NHS-South-Central-and-West/nectar_presentation/tree/main/visualisation)
 
 # Automation {data-background-color="#425563"}
 
