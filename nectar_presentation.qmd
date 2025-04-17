@@ -50,6 +50,10 @@ If you like what you saw today, you can find the repository for the demonstratio
 # Data Science {data-background-color="#425563"}
 
 ## Topics to be covered
+- Foundational concepts
+- Linear algebra
+- Regression techniques
+- Categorisation techniques
 
 ---
 
