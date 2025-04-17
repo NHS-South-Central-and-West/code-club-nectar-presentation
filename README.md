@@ -1,4 +1,3 @@
-# nectar_presentation
+# Code Club Presentation for Nectar Session 2025-04-22
 
-When making changes, remember to run `quarto render` in the terminal to ensure that they get added to the
-html file. Then you can push updates to the repository.
+This is the repository for the content presented at the Nectar session
