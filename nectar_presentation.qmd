@@ -23,7 +23,25 @@ Our core syllabus will cover:
 - Virtual environment management
 - Collaboration on coding projects using GitHub
 
-# Visualisations {data-background-color="#425563"}
+# Visualisations {.smaller data-background-color="#425563"}
+
+## Python visualisation libraries
+
+<p style="font-size: 80%;">There are many packages available for data visualisation in python, all with their own strengths in terms of ease of coding, aesthetics, and interactivity. Some of the common ones are:</p>
+
+::: {layout-ncol="2"}
+
+- `matplotlib`
+- `bokeh`
+- `seaborn`
+- `plotly`
+- `plotnine`
+- `pygal`
+
+![](images/python-vis-libraries.png)
+:::
+
+<p style="font-size: 80%;">For this taster session, we'll be using <code>seaborn</code>.</p>
 
 ## Future topics to be covered
 
