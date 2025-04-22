@@ -11,7 +11,7 @@
     "href": "nectar_presentation.html#no-coding-experience-no-problem",
     "title": "Welcome to Code Club!",
     "section": "No coding experience? No problem",
-    "text": "No coding experience? No problem\nOur core syllabus will cover:\n\nWhat to install\nAn introduction to essential programming concepts\nRunning code line-by-line in beginner-friendly Jupyter Notebooks\nWorking on Python scripts in Visual Studio Code\nVirtual environment management\nCollaboration on coding projects using GitHub"
+    "text": "No coding experience? No problem\nOur core syllabus will cover:\n\nWhat to install\nAn introduction to essential programming concepts\nRunning code line-by-line in beginner-friendly Jupyter Notebooks\nWorking on Python scripts in Visual Studio Code\nDependency management and virtual environments\nCollaboration on coding projects using GitHub"
   },
   {
     "objectID": "nectar_presentation.html#python-visualisation-libraries",
