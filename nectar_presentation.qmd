@@ -1,6 +1,9 @@
 ---
 title: "Welcome to Code Club!"
 author: "Specialist Analytics Team"
+format:
+  revealjs:
+    link-external-newwindow: true
 ---
 
 ## Our Mission
@@ -20,7 +23,7 @@ Our core syllabus will cover:
 - An introduction to essential programming concepts
 - Running code line-by-line in beginner-friendly Jupyter Notebooks
 - Working on Python scripts in Visual Studio Code
-- Virtual environment management
+- Dependency management and virtual environments
 - Collaboration on coding projects using GitHub
 
 # Visualisations {.smaller data-background-color="#425563"}
