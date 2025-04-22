@@ -14,6 +14,13 @@
     "text": "No coding experience? No problem\nOur core syllabus will cover:\n\nWhat to install\nAn introduction to essential programming concepts\nRunning code line-by-line in beginner-friendly Jupyter Notebooks\nWorking on Python scripts in Visual Studio Code\nVirtual environment management\nCollaboration on coding projects using GitHub"
   },
   {
+    "objectID": "nectar_presentation.html#python-visualisation-libraries",
+    "href": "nectar_presentation.html#python-visualisation-libraries",
+    "title": "Welcome to Code Club!",
+    "section": "Python visualisation libraries",
+    "text": "Python visualisation libraries\n\nThere are many packages available for data visualisation in python, all with their own strengths in terms of ease of coding, aesthetics, and interactivity. Some of the common ones are:\n\n\n\n\n\nmatplotlib\nbokeh\nseaborn\nplotly\nplotnine\npygal\n\n\n\n\n\n\n\n\nFor this taster session, we’ll be using seaborn."
+  },
+  {
     "objectID": "nectar_presentation.html#future-topics-to-be-covered",
     "href": "nectar_presentation.html#future-topics-to-be-covered",
     "title": "Welcome to Code Club!",
